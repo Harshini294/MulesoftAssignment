@@ -1,0 +1,44 @@
+Established
+Created
+3
+Enter movie name
+pokiri
+Enter Actor name
+mahesh
+Enter Actress name
+jeniliya
+Enter Director name
+puri
+Enter year of release
+2006
+Enter movie name
+julai
+Enter Actor name
+arjun
+Enter Actress name
+ileyana
+Enter Director name
+trivikram
+Enter year of release
+2014
+Enter movie name
+maharshi
+Enter Actor name
+mahesh
+Enter Actress name
+hebba
+Enter Director name
+shiva
+Enter year of release
+2020
+MOVIE	ACTOR	ACTRESS	DIRECTOR	YEAR OF RELEASE
+pokiri	mahesh	ileayana	puri	2006
+julai	arujun	ileyana	trivikram	2014
+maharshi	mahesh	shiva	shiva	2020
+pokiri	mahesh	jeniliya	puri	2006
+julai	arjun	ileyana	trivikram	2014
+maharshi	mahesh	hebba	shiva	2020
+pokiri	mahesh	ileayana	puri	2006
+maharshi	mahesh	shiva	shiva	2020
+pokiri	mahesh	jeniliya	puri	2006
+maharshi	mahesh	hebba	shiva	2020
